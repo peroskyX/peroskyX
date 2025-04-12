@@ -8,7 +8,7 @@
 
 ### 🛠 Tech Stack
 
-- **Languages:** JavaScript, TypeScript, Dart  
+- **Languages:** JavaScript, TypeScript, goLang  
 - **Backend:** Node.js, Express.js, Firebase Functions  
 - **Mobile:** Flutter  
 - **Frontend:** Next.js  
