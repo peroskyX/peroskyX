@@ -43,7 +43,7 @@ At WindowshopAI, I designed and developed backend systems to support business in
 
 ### 📊 GitHub Stats
 
-![Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=peroskyX&show_icons=true&theme=radical)
+![Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=perosky168&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peroskyX&layout=compact&theme=radical)
 
