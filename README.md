@@ -30,7 +30,6 @@ In the past few months at **WindowshopAI**, I've worked as a 💼 Software Engin
 
 At WindowshopAI, I designed and developed backend systems to support business intelligence, affiliate monetization, and platform scaling.
 
-> ⚠️ **Note**: My earlier GitHub account  (containing some of my past open source contributions and projects) is currently unavailable. I’m actively working with GitHub to have it restored.
 
 ---
 
