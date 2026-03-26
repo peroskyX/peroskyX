@@ -46,6 +46,4 @@ At WindowshopAI, I designed and developed backend systems to support business in
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peroskyX&layout=compact&theme=radical)
 
-
-
 ---
